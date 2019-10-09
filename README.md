@@ -96,7 +96,7 @@ end
 ( ) `end`
 ( ) `return`
 
-?: A case statement is an alternative statement to can be used to test for performing selection like `if...elsif...elsif...end`
+?: A case statement is an alternative statement to `if...elsif...elsif...end`
 
 (X) TRUE
 ( ) FALSE
